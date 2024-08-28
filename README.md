@@ -1,4 +1,6 @@
 **Description:**
+
+
 No rate limit on the api /login of Defectdojo version 2.37.3 ([https://github.com/DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)) allow remote attackers to Brute Force hijacking user accounts in the system.
 
 **Proof of Concept:**
@@ -13,4 +15,6 @@ Success
 ![image](https://github.com/user-attachments/assets/c4064478-cedb-4a5f-b59c-4217ed326c05)
 
 **Impact:**
+
+
 Hijacking user accounts in the system.
